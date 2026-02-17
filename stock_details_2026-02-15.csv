@@ -1,0 +1,501 @@
+symbol,sector,change_pct,category
+360ONE,Financial Services,-1.54,neutral
+3MINDIA,Diversified,-6.4,down_5_10
+ABB,Capital Goods,-0.14,neutral
+ACC,Construction Materials,-2.05,neutral
+ACMESOLAR,Power,0.3,neutral
+AIAENG,Capital Goods,-2.26,neutral
+APLAPOLLO,Capital Goods,-1.19,neutral
+AUBANK,Financial Services,-0.57,neutral
+AWL,Fast Moving Consumer Goods,-2.29,neutral
+AADHARHFC,Financial Services,-0.92,neutral
+AARTIIND,Chemicals,-4.12,down_3_5
+AAVAS,Financial Services,-1.67,neutral
+ABBOTINDIA,Healthcare,-0.75,neutral
+ACE,Capital Goods,-0.83,neutral
+ADANIENSOL,Power,-3.4,down_3_5
+ADANIENT,Metals & Mining,-3.4,down_3_5
+ADANIGREEN,Power,-4.73,down_3_5
+ADANIPORTS,Services,-1.6,neutral
+ADANIPOWER,Power,-6.6,down_5_10
+ATGL,Oil Gas & Consumable Fuels,-2.99,neutral
+ABCAPITAL,Financial Services,-2.45,neutral
+ABFRL,Consumer Services,5.37,up_5_10
+ABLBL,Consumer Services,-1.3,neutral
+ABREL,Forest Materials,-2.01,neutral
+ABSLAMC,Financial Services,-0.25,neutral
+AEGISLOG,Oil Gas & Consumable Fuels,-1.6,neutral
+AEGISVOPAK,Oil Gas & Consumable Fuels,0.58,neutral
+AFCONS,Construction,-1.58,neutral
+AFFLE,Information Technology,-3.88,down_3_5
+AJANTPHARM,Healthcare,1.04,neutral
+AKUMS,Healthcare,-2.73,neutral
+AKZOINDIA,Consumer Durables,-1.65,neutral
+APLLTD,Healthcare,-2.53,neutral
+ALKEM,Healthcare,-7.97,down_5_10
+ALKYLAMINE,Chemicals,-0.97,neutral
+ALOKINDS,Textiles,-3.21,down_3_5
+ARE&M,Automobile and Auto Components,-2.31,neutral
+AMBER,Consumer Durables,-0.64,neutral
+AMBUJACEM,Construction Materials,-2.51,neutral
+ANANDRATHI,Financial Services,0.08,neutral
+ANANTRAJ,Realty,-2.88,neutral
+ANGELONE,Financial Services,-1.95,neutral
+APARINDS,Capital Goods,-0.15,neutral
+APOLLOHOSP,Healthcare,0.05,neutral
+APOLLOTYRE,Automobile and Auto Components,-1.82,neutral
+APTUS,Financial Services,-0.97,neutral
+ASAHIINDIA,Automobile and Auto Components,-1.52,neutral
+ASHOKLEY,Capital Goods,-3.03,down_3_5
+ASIANPAINT,Consumer Durables,-1.83,neutral
+ASTERDM,Healthcare,-0.49,neutral
+ASTRAZEN,Healthcare,1.08,neutral
+ASTRAL,Capital Goods,0.31,neutral
+ATHERENERG,Automobile and Auto Components,-2.41,neutral
+ATUL,Chemicals,0.09,neutral
+AUROPHARMA,Healthcare,-1.06,neutral
+AIIL,Financial Services,-1.89,neutral
+DMART,Consumer Services,-1.36,neutral
+AXISBANK,Financial Services,-0.57,neutral
+BASF,Chemicals,-3.06,down_3_5
+BEML,Capital Goods,-0.12,neutral
+BLS,Consumer Services,-3.29,down_3_5
+BSE,Financial Services,-3.75,down_3_5
+BAJAJ-AUTO,Automobile and Auto Components,-0.81,neutral
+BAJFINANCE,Financial Services,2.57,neutral
+BAJAJFINSV,Financial Services,-0.68,neutral
+BAJAJHLDNG,Financial Services,-1.44,neutral
+BAJAJHFL,Financial Services,-1.22,neutral
+BALKRISIND,Automobile and Auto Components,-1.12,neutral
+BALRAMCHIN,Fast Moving Consumer Goods,1.18,neutral
+BANDHANBNK,Financial Services,-2.42,neutral
+BANKBARODA,Financial Services,-0.83,neutral
+BANKINDIA,Financial Services,-2.11,neutral
+MAHABANK,Financial Services,-0.23,neutral
+BATAINDIA,Consumer Durables,-3.58,down_3_5
+BAYERCROP,Chemicals,-0.86,neutral
+BERGEPAINT,Consumer Durables,0.27,neutral
+BDL,Capital Goods,-2.2,neutral
+BEL,Capital Goods,-1.88,neutral
+BHARATFORG,Automobile and Auto Components,0.7,neutral
+BHEL,Capital Goods,-1.86,neutral
+BPCL,Oil Gas & Consumable Fuels,-0.95,neutral
+BHARTIARTL,Telecommunication,-0.49,neutral
+BHARTIHEXA,Telecommunication,-0.78,neutral
+BIKAJI,Fast Moving Consumer Goods,-2.22,neutral
+BIOCON,Healthcare,0.77,neutral
+BSOFT,Information Technology,-8.04,down_5_10
+BLUEDART,Services,-0.38,neutral
+BLUEJET,Healthcare,-9.99,down_5_10
+BLUESTARCO,Consumer Durables,1.18,neutral
+BBTC,Fast Moving Consumer Goods,-1.16,neutral
+BOSCHLTD,Automobile and Auto Components,-2.19,neutral
+FIRSTCRY,Consumer Services,0.75,neutral
+BRIGADE,Realty,-4.22,down_3_5
+BRITANNIA,Fast Moving Consumer Goods,-1.99,neutral
+MAPMYINDIA,Information Technology,-3.98,down_3_5
+CCL,Fast Moving Consumer Goods,-0.02,neutral
+CESC,Power,-2.42,neutral
+CGPOWER,Capital Goods,-0.72,neutral
+CRISIL,Financial Services,-4.76,down_3_5
+CAMPUS,Consumer Durables,-1.21,neutral
+CANFINHOME,Financial Services,-0.47,neutral
+CANBK,Financial Services,-2.1,neutral
+CAPLIPOINT,Healthcare,-0.32,neutral
+CGCL,Financial Services,-1.15,neutral
+CARBORUNIV,Capital Goods,-1.23,neutral
+CASTROLIND,Oil Gas & Consumable Fuels,-0.81,neutral
+CEATLTD,Automobile and Auto Components,-0.57,neutral
+CENTRALBK,Financial Services,-1.47,neutral
+CDSL,Financial Services,-2.55,neutral
+CENTURYPLY,Consumer Durables,-1.53,neutral
+CERA,Consumer Durables,-1.54,neutral
+CHALET,Consumer Services,-2.13,neutral
+CHAMBLFERT,Chemicals,-1.38,neutral
+CHENNPETRO,Oil Gas & Consumable Fuels,-2.07,neutral
+CHOICEIN,Financial Services,-1.67,neutral
+CHOLAHLDNG,Financial Services,-2.77,neutral
+CHOLAFIN,Financial Services,-1.29,neutral
+CIPLA,Healthcare,0.11,neutral
+CUB,Financial Services,-0.8,neutral
+CLEAN,Chemicals,-2.26,neutral
+COALINDIA,Oil Gas & Consumable Fuels,-2.43,neutral
+COCHINSHIP,Capital Goods,-1.84,neutral
+COFORGE,Information Technology,-4.2,down_3_5
+COHANCE,Healthcare,-10.02,down_10_15
+COLPAL,Fast Moving Consumer Goods,-0.78,neutral
+CAMS,Financial Services,-1.28,neutral
+CONCORDBIO,Healthcare,-3.62,down_3_5
+CONCOR,Services,-1.69,neutral
+COROMANDEL,Chemicals,0.41,neutral
+CRAFTSMAN,Automobile and Auto Components,-3.07,down_3_5
+CREDITACC,Financial Services,0.17,neutral
+CROMPTON,Consumer Durables,1.18,neutral
+CUMMINSIND,Capital Goods,-0.38,neutral
+CYIENT,Information Technology,-2.14,neutral
+DCMSHRIRAM,Diversified,-1.61,neutral
+DLF,Realty,-3.9,down_3_5
+DOMS,Fast Moving Consumer Goods,-1.99,neutral
+DABUR,Fast Moving Consumer Goods,-1.37,neutral
+DALBHARAT,Construction Materials,-1.42,neutral
+DATAPATTNS,Capital Goods,-0.52,neutral
+DEEPAKFERT,Chemicals,-1.31,neutral
+DEEPAKNTR,Chemicals,-0.94,neutral
+DELHIVERY,Services,-2.1,neutral
+DEVYANI,Consumer Services,-1.4,neutral
+DIVISLAB,Healthcare,-0.27,neutral
+DIXON,Consumer Durables,-1.8,neutral
+AGARWALEYE,Healthcare,-0.91,neutral
+LALPATHLAB,Healthcare,-2.55,neutral
+DRREDDY,Healthcare,-0.53,neutral
+EIDPARRY,Fast Moving Consumer Goods,-0.25,neutral
+EIHOTEL,Consumer Services,-1.06,neutral
+EICHERMOT,Automobile and Auto Components,1.54,neutral
+ELECON,Capital Goods,-2.36,neutral
+ELGIEQUIP,Capital Goods,-0.53,neutral
+EMAMILTD,Fast Moving Consumer Goods,-1.16,neutral
+EMCURE,Healthcare,2.1,neutral
+ENDURANCE,Automobile and Auto Components,-2.87,neutral
+ENGINERSIN,Construction,11.48,up_10_15
+ERIS,Healthcare,-6.36,down_5_10
+ESCORTS,Capital Goods,-1.35,neutral
+ETERNAL,Consumer Services,-4.3,down_3_5
+EXIDEIND,Automobile and Auto Components,-0.37,neutral
+NYKAA,Consumer Services,-3.28,down_3_5
+FEDERALBNK,Financial Services,0.42,neutral
+FACT,Chemicals,-2.49,neutral
+FINCABLES,Capital Goods,-1.01,neutral
+FINPIPE,Capital Goods,-1.36,neutral
+FSL,Services,-7.18,down_5_10
+FIVESTAR,Financial Services,-0.07,neutral
+FORCEMOT,Automobile and Auto Components,0.01,neutral
+FORTIS,Healthcare,-1.27,neutral
+GAIL,Oil Gas & Consumable Fuels,-1.24,neutral
+GVT&D,Capital Goods,-1.92,neutral
+GMRAIRPORT,Services,-2.39,neutral
+GRSE,Capital Goods,-2.54,neutral
+GICRE,Financial Services,-0.57,neutral
+GILLETTE,Fast Moving Consumer Goods,-1.38,neutral
+GLAND,Healthcare,-1.94,neutral
+GLAXO,Healthcare,-2.78,neutral
+GLENMARK,Healthcare,-1.81,neutral
+MEDANTA,Healthcare,-0.83,neutral
+GODIGIT,Financial Services,0.8,neutral
+GPIL,Capital Goods,-2.54,neutral
+GODFRYPHLP,Fast Moving Consumer Goods,-2.02,neutral
+GODREJAGRO,Fast Moving Consumer Goods,2.88,neutral
+GODREJCP,Fast Moving Consumer Goods,-0.74,neutral
+GODREJIND,Diversified,-4.46,down_3_5
+GODREJPROP,Realty,-0.83,neutral
+GRANULES,Healthcare,-1.32,neutral
+GRAPHITE,Capital Goods,-3.62,down_3_5
+GRASIM,Construction Materials,-1.28,neutral
+GRAVITA,Metals & Mining,-1.12,neutral
+GESHIP,Services,-3.0,neutral
+FLUOROCHEM,Chemicals,0.35,neutral
+GUJGASLTD,Oil Gas & Consumable Fuels,-0.22,neutral
+GMDCLTD,Metals & Mining,-3.44,down_3_5
+GSPL,Oil Gas & Consumable Fuels,-0.11,neutral
+HEG,Capital Goods,-1.03,neutral
+HBLENGINE,Capital Goods,-1.59,neutral
+HCLTECH,Information Technology,-1.42,neutral
+HDFCAMC,Financial Services,-0.79,neutral
+HDFCBANK,Financial Services,-1.81,neutral
+HDFCLIFE,Financial Services,-0.84,neutral
+HFCL,Telecommunication,-2.62,neutral
+HAPPSTMNDS,Information Technology,-2.31,neutral
+HAVELLS,Consumer Durables,0.25,neutral
+HEROMOTOCO,Automobile and Auto Components,-2.6,neutral
+HEXT,Information Technology,3.43,up_3_5
+HSCL,Chemicals,-0.42,neutral
+HINDALCO,Metals & Mining,-5.74,down_5_10
+HAL,Capital Goods,1.29,neutral
+HINDCOPPER,Metals & Mining,-5.14,down_5_10
+HINDPETRO,Oil Gas & Consumable Fuels,-0.48,neutral
+HINDUNILVR,Fast Moving Consumer Goods,-4.34,down_3_5
+HINDZINC,Metals & Mining,-4.95,down_3_5
+POWERINDIA,Capital Goods,-1.25,neutral
+HOMEFIRST,Financial Services,-0.69,neutral
+HONASA,Fast Moving Consumer Goods,0.74,neutral
+HONAUT,Capital Goods,-1.54,neutral
+HUDCO,Financial Services,-3.05,down_3_5
+HYUNDAI,Automobile and Auto Components,0.09,neutral
+ICICIBANK,Financial Services,-1.08,neutral
+ICICIGI,Financial Services,-0.19,neutral
+ICICIPRULI,Financial Services,0.87,neutral
+IDBI,Financial Services,0.58,neutral
+IDFCFIRSTB,Financial Services,-0.74,neutral
+IFCI,Financial Services,1.57,neutral
+IIFL,Financial Services,-2.72,neutral
+INOXINDIA,Capital Goods,1.94,neutral
+IRB,Construction,-0.99,neutral
+IRCON,Construction,-1.02,neutral
+ITCHOTELS,Consumer Services,-2.46,neutral
+ITC,Fast Moving Consumer Goods,-1.17,neutral
+ITI,Telecommunication,-1.53,neutral
+INDGN,Healthcare,0.84,neutral
+INDIACEM,Construction Materials,-1.32,neutral
+INDIAMART,Consumer Services,-0.01,neutral
+INDIANB,Financial Services,-0.79,neutral
+IEX,Financial Services,-1.56,neutral
+INDHOTEL,Consumer Services,-1.7,neutral
+IOC,Oil Gas & Consumable Fuels,-0.75,neutral
+IOB,Financial Services,-1.05,neutral
+IRCTC,Consumer Services,-0.73,neutral
+IRFC,Financial Services,-1.84,neutral
+IREDA,Financial Services,-1.33,neutral
+IGL,Oil Gas & Consumable Fuels,-1.83,neutral
+INDUSTOWER,Telecommunication,-1.56,neutral
+INDUSINDBK,Financial Services,0.36,neutral
+NAUKRI,Consumer Services,-0.71,neutral
+INFY,Information Technology,-1.22,neutral
+INOXWIND,Capital Goods,-2.69,neutral
+INTELLECT,Information Technology,-4.54,down_3_5
+INDIGO,Services,-1.08,neutral
+IGIL,Services,-1.47,neutral
+IKS,Information Technology,-1.14,neutral
+IPCALAB,Healthcare,0.85,neutral
+JBCHEPHARM,Healthcare,-0.96,neutral
+JKCEMENT,Construction Materials,-3.66,down_3_5
+JBMA,Automobile and Auto Components,-2.79,neutral
+JKTYRE,Automobile and Auto Components,0.89,neutral
+JMFINANCIL,Financial Services,-3.26,down_3_5
+JSWCEMENT,Construction Materials,-0.18,neutral
+JSWENERGY,Power,-1.0,neutral
+JSWINFRA,Services,-2.17,neutral
+JSWSTEEL,Metals & Mining,-1.27,neutral
+JPPOWER,Power,-2.48,neutral
+J&KBANK,Financial Services,-1.73,neutral
+JINDALSAW,Capital Goods,-0.89,neutral
+JSL,Metals & Mining,-4.43,down_3_5
+JINDALSTEL,Metals & Mining,-1.55,neutral
+JIOFIN,Financial Services,-1.35,neutral
+JUBLFOOD,Consumer Services,-1.41,neutral
+JUBLINGREA,Chemicals,-3.18,down_3_5
+JUBLPHARMA,Healthcare,-3.21,down_3_5
+JWL,Capital Goods,-1.99,neutral
+JYOTHYLAB,Fast Moving Consumer Goods,-1.63,neutral
+JYOTICNC,Capital Goods,-2.9,neutral
+KPRMILL,Textiles,3.93,up_3_5
+KEI,Capital Goods,-0.53,neutral
+KPITTECH,Information Technology,-3.34,down_3_5
+KSB,Capital Goods,-1.55,neutral
+KAJARIACER,Consumer Durables,-1.62,neutral
+KPIL,Construction,-0.45,neutral
+KALYANKJIL,Consumer Durables,-3.34,down_3_5
+KARURVYSYA,Financial Services,-0.89,neutral
+KAYNES,Capital Goods,-3.53,down_3_5
+KEC,Construction,-1.7,neutral
+KFINTECH,Financial Services,-1.72,neutral
+KIRLOSBROS,Capital Goods,-0.88,neutral
+KIRLOSENG,Capital Goods,3.21,up_3_5
+KOTAKBANK,Financial Services,-1.31,neutral
+KIMS,Healthcare,-1.52,neutral
+LTF,Financial Services,-2.38,neutral
+LTTS,Information Technology,-5.26,down_5_10
+LICHSGFIN,Financial Services,-1.83,neutral
+LTFOODS,Fast Moving Consumer Goods,1.39,neutral
+LTIM,Information Technology,-1.84,neutral
+LT,Construction,-0.29,neutral
+LATENTVIEW,Information Technology,-0.38,neutral
+LAURUSLABS,Healthcare,-0.79,neutral
+THELEELA,Consumer Services,-0.46,neutral
+LEMONTREE,Consumer Services,-2.77,neutral
+LICI,Financial Services,-2.11,neutral
+LINDEINDIA,Chemicals,7.13,up_5_10
+LLOYDSME,Metals & Mining,-2.87,neutral
+LODHA,Realty,-1.04,neutral
+LUPIN,Healthcare,-0.53,neutral
+MMTC,Services,-2.59,neutral
+MRF,Automobile and Auto Components,-0.73,neutral
+MGL,Oil Gas & Consumable Fuels,-2.99,neutral
+MAHSCOOTER,Financial Services,-0.47,neutral
+MAHSEAMLES,Capital Goods,-1.99,neutral
+M&MFIN,Financial Services,-4.12,down_3_5
+M&M,Automobile and Auto Components,-1.66,neutral
+MANAPPURAM,Financial Services,-1.94,neutral
+MRPL,Oil Gas & Consumable Fuels,-2.89,neutral
+MANKIND,Healthcare,-0.89,neutral
+MARICO,Fast Moving Consumer Goods,-1.36,neutral
+MARUTI,Automobile and Auto Components,-0.58,neutral
+MFSL,Financial Services,0.63,neutral
+MAXHEALTH,Healthcare,-0.87,neutral
+MAZDOCK,Capital Goods,-2.38,neutral
+METROPOLIS,Healthcare,-1.99,neutral
+MINDACORP,Automobile and Auto Components,1.1,neutral
+MSUMI,Automobile and Auto Components,-1.11,neutral
+MOTILALOFS,Financial Services,-2.34,neutral
+MPHASIS,Information Technology,-0.23,neutral
+MCX,Financial Services,-4.15,down_3_5
+MUTHOOTFIN,Financial Services,-11.82,down_10_15
+NATCOPHARM,Healthcare,-1.91,neutral
+NBCC,Construction,-2.41,neutral
+NCC,Construction,-1.89,neutral
+NHPC,Power,-1.35,neutral
+NLCINDIA,Power,-0.13,neutral
+NMDC,Metals & Mining,-3.42,down_3_5
+NSLNISP,Metals & Mining,-2.28,neutral
+NTPCGREEN,Power,-0.08,neutral
+NTPC,Power,-1.43,neutral
+NH,Healthcare,-2.42,neutral
+NATIONALUM,Metals & Mining,-5.52,down_5_10
+NAVA,Power,-2.21,neutral
+NAVINFLUOR,Chemicals,-4.3,down_3_5
+NESTLEIND,Fast Moving Consumer Goods,-1.75,neutral
+NETWEB,Information Technology,-3.27,down_3_5
+NEULANDLAB,Healthcare,0.74,neutral
+NEWGEN,Information Technology,-5.54,down_5_10
+NAM-INDIA,Financial Services,-5.49,down_5_10
+NIVABUPA,Financial Services,-1.04,neutral
+NUVAMA,Financial Services,-0.82,neutral
+NUVOCO,Construction Materials,-1.88,neutral
+OBEROIRLTY,Realty,-1.21,neutral
+ONGC,Oil Gas & Consumable Fuels,-3.24,down_3_5
+OIL,Oil Gas & Consumable Fuels,-4.13,down_3_5
+OLAELEC,Automobile and Auto Components,-0.26,neutral
+OLECTRA,Automobile and Auto Components,-1.03,neutral
+PAYTM,Financial Services,-1.95,neutral
+ONESOURCE,Healthcare,-2.15,neutral
+OFSS,Information Technology,-1.85,neutral
+POLICYBZR,Financial Services,-1.92,neutral
+PCBL,Chemicals,-4.34,down_3_5
+PGEL,Consumer Durables,-1.31,neutral
+PIIND,Chemicals,-2.23,neutral
+PNBHOUSING,Financial Services,-1.97,neutral
+PTCIL,Capital Goods,-1.57,neutral
+PVRINOX,Media Entertainment & Publication,-2.62,neutral
+PAGEIND,Textiles,-0.95,neutral
+PATANJALI,Fast Moving Consumer Goods,-0.36,neutral
+PERSISTENT,Information Technology,0.5,neutral
+PETRONET,Oil Gas & Consumable Fuels,-2.27,neutral
+PFIZER,Healthcare,-1.64,neutral
+PHOENIXLTD,Realty,-2.45,neutral
+PIDILITIND,Chemicals,-1.21,neutral
+PPLPHARMA,Healthcare,1.62,neutral
+POLYMED,Healthcare,-2.07,neutral
+POLYCAB,Capital Goods,-2.32,neutral
+POONAWALLA,Financial Services,-1.8,neutral
+PFC,Financial Services,-2.44,neutral
+POWERGRID,Power,-2.28,neutral
+PRAJIND,Capital Goods,-6.67,down_5_10
+PREMIERENE,Capital Goods,-1.59,neutral
+PRESTIGE,Realty,-3.41,down_3_5
+PGHH,Fast Moving Consumer Goods,0.09,neutral
+PNB,Financial Services,-1.82,neutral
+RRKABEL,Capital Goods,-1.7,neutral
+RBLBANK,Financial Services,-1.01,neutral
+RECLTD,Financial Services,-1.08,neutral
+RHIM,Capital Goods,-4.47,down_3_5
+RITES,Construction,-1.79,neutral
+RADICO,Fast Moving Consumer Goods,-1.48,neutral
+RVNL,Construction,-1.51,neutral
+RAILTEL,Telecommunication,-1.46,neutral
+RAINBOW,Healthcare,-2.43,neutral
+RKFORGE,Automobile and Auto Components,-1.23,neutral
+RCF,Chemicals,-2.86,neutral
+REDINGTON,Services,-0.94,neutral
+RELIANCE,Oil Gas & Consumable Fuels,-2.02,neutral
+RELINFRA,Power,-4.99,down_3_5
+RPOWER,Power,-2.93,neutral
+SBFC,Financial Services,-1.37,neutral
+SBICARD,Financial Services,-1.57,neutral
+SBILIFE,Financial Services,0.6,neutral
+SJVN,Power,-2.92,neutral
+SRF,Chemicals,-0.29,neutral
+SAGILITY,Information Technology,-2.37,neutral
+SAILIFE,Healthcare,-1.63,neutral
+SAMMAANCAP,Financial Services,-1.87,neutral
+MOTHERSON,Automobile and Auto Components,-1.11,neutral
+SAPPHIRE,Consumer Services,-0.84,neutral
+SARDAEN,Metals & Mining,0.69,neutral
+SAREGAMA,Media Entertainment & Publication,-3.27,down_3_5
+SCHAEFFLER,Automobile and Auto Components,-0.89,neutral
+SCHNEIDER,Capital Goods,2.88,neutral
+SCI,Services,-3.36,down_3_5
+SHREECEM,Construction Materials,-0.8,neutral
+SHRIRAMFIN,Financial Services,-1.57,neutral
+SHYAMMETL,Capital Goods,-1.86,neutral
+ENRIN,Capital Goods,0.32,neutral
+SIEMENS,Capital Goods,-1.02,neutral
+SIGNATURE,Realty,5.87,up_5_10
+SOBHA,Realty,-0.39,neutral
+SOLARINDS,Chemicals,-2.6,neutral
+SONACOMS,Automobile and Auto Components,-0.91,neutral
+SONATSOFTW,Information Technology,-2.89,neutral
+STARHEALTH,Financial Services,-2.65,neutral
+SBIN,Financial Services,0.52,neutral
+SAIL,Metals & Mining,-0.67,neutral
+SUMICHEM,Chemicals,-1.63,neutral
+SUNPHARMA,Healthcare,-1.01,neutral
+SUNTV,Media Entertainment & Publication,-4.24,down_3_5
+SUNDARMFIN,Financial Services,-3.54,down_3_5
+SUNDRMFAST,Automobile and Auto Components,-1.5,neutral
+SUPREMEIND,Capital Goods,-1.8,neutral
+SUZLON,Capital Goods,-2.44,neutral
+SWANCORP,Chemicals,-1.99,neutral
+SWIGGY,Consumer Services,0.09,neutral
+SYNGENE,Healthcare,-2.69,neutral
+SYRMA,Capital Goods,-0.16,neutral
+TBOTEK,Consumer Services,3.29,up_3_5
+TVSMOTOR,Automobile and Auto Components,-0.43,neutral
+TATACHEM,Chemicals,-0.49,neutral
+TATACOMM,Telecommunication,-2.84,neutral
+TCS,Information Technology,-2.11,neutral
+TATACONSUM,Fast Moving Consumer Goods,-1.49,neutral
+TATAELXSI,Information Technology,-3.05,down_3_5
+TATAINVEST,Financial Services,-2.72,neutral
+TMPV,Automobile and Auto Components,-0.83,neutral
+TATAPOWER,Power,-1.69,neutral
+TATASTEEL,Metals & Mining,-2.37,neutral
+TATATECH,Information Technology,-2.68,neutral
+TTML,Telecommunication,-2.6,neutral
+TECHM,Information Technology,-0.14,neutral
+TECHNOE,Construction,-3.04,down_3_5
+TEJASNET,Telecommunication,-1.32,neutral
+NIACL,Financial Services,-2.66,neutral
+RAMCOCEM,Construction Materials,-0.03,neutral
+THERMAX,Capital Goods,1.95,neutral
+TIMKEN,Capital Goods,-1.86,neutral
+TITAGARH,Capital Goods,-1.65,neutral
+TITAN,Consumer Durables,-2.26,neutral
+TORNTPHARM,Healthcare,0.02,neutral
+TORNTPOWER,Power,0.61,neutral
+TARIL,Capital Goods,-3.42,down_3_5
+TRENT,Consumer Services,-0.78,neutral
+TRIDENT,Textiles,-0.15,neutral
+TRIVENI,Fast Moving Consumer Goods,-0.3,neutral
+TRITURBINE,Capital Goods,0.37,neutral
+TIINDIA,Automobile and Auto Components,-0.51,neutral
+UCOBANK,Financial Services,-1.99,neutral
+UNOMINDA,Automobile and Auto Components,-0.31,neutral
+UPL,Chemicals,-2.77,neutral
+UTIAMC,Financial Services,-0.82,neutral
+ULTRACEMCO,Construction Materials,-0.51,neutral
+UNIONBANK,Financial Services,-1.18,neutral
+UBL,Fast Moving Consumer Goods,0.47,neutral
+UNITDSPR,Fast Moving Consumer Goods,-1.06,neutral
+USHAMART,Capital Goods,-3.5,down_3_5
+VGUARD,Consumer Durables,-2.83,neutral
+DBREALTY,Consumer Services,-5.17,down_5_10
+VTL,Textiles,5.54,up_5_10
+VBL,Fast Moving Consumer Goods,-1.4,neutral
+MANYAVAR,Consumer Services,-5.05,down_5_10
+VEDL,Metals & Mining,-4.14,down_3_5
+VENTIVE,Consumer Services,-2.42,neutral
+VIJAYA,Healthcare,-0.65,neutral
+VMM,Consumer Services,-1.58,neutral
+IDEA,Telecommunication,-2.16,neutral
+VOLTAS,Consumer Durables,-0.68,neutral
+WAAREEENER,Capital Goods,-2.37,neutral
+WELCORP,Capital Goods,-3.43,down_3_5
+WELSPUNLIV,Textiles,-1.01,neutral
+WHIRLPOOL,Consumer Durables,1.13,neutral
+WIPRO,Information Technology,-2.28,neutral
+WOCKPHARMA,Healthcare,0.86,neutral
+YESBANK,Financial Services,-1.14,neutral
+ZFCVINDIA,Automobile and Auto Components,0.27,neutral
+ZEEL,Media Entertainment & Publication,2.65,neutral
+ZENTEC,Capital Goods,-2.43,neutral
+ZENSARTECH,Information Technology,1.99,neutral
+ZYDUSLIFE,Healthcare,-1.76,neutral
+ECLERX,Services,-1.68,neutral
