@@ -52,22 +52,94 @@ class DashboardData:
         self.sector_df = None
         
     def load_data(self):
-        """Load historical data"""
+        """Load historical data with full error handling and column validation"""
         if not os.path.exists(self.data_file):
             return None
         
-        df = pd.read_csv(self.data_file)
-        df['date'] = pd.to_datetime(df['date'])
-        return df
+        try:
+            df = pd.read_csv(self.data_file)
+            
+            # Empty file
+            if df.empty or len(df.columns) == 0:
+                return None
+            
+            # Auto-fix: rename first column to 'date' if it contains date-like values
+            if 'date' not in df.columns:
+                first_col = df.columns[0]
+                try:
+                    pd.to_datetime(df[first_col].iloc[0])
+                    df = df.rename(columns={first_col: 'date'})
+                except:
+                    return None
+            
+            # Required movement columns
+            required_cols = ['up_15_plus', 'up_10_15', 'up_5_10', 'up_3_5',
+                           'down_3_5', 'down_5_10', 'down_10_15', 'down_15_plus']
+            
+            # Fill any missing movement columns with 0
+            for col in required_cols:
+                if col not in df.columns:
+                    df[col] = 0
+            
+            # Fill neutral if missing
+            if 'neutral' not in df.columns:
+                df['neutral'] = 0
+            
+            # Convert date column
+            df['date'] = pd.to_datetime(df['date'], errors='coerce')
+            
+            # Drop rows where date conversion failed
+            df = df.dropna(subset=['date'])
+            
+            # Convert numeric columns
+            for col in required_cols + ['neutral']:
+                df[col] = pd.to_numeric(df[col], errors='coerce').fillna(0).astype(int)
+            
+            # Sort by date
+            df = df.sort_values('date').reset_index(drop=True)
+            
+            return df if len(df) > 0 else None
+            
+        except Exception as e:
+            st.error(f"❌ Error loading data: {e}")
+            st.info("💡 Run `python stock_tracker_with_sectors.py` to collect fresh data.")
+            return None
     
     def load_sector_data(self):
-        """Load sector historical data"""
+        """Load sector historical data with full error handling"""
         if not os.path.exists(self.sector_file):
             return None
         
-        sector_df = pd.read_csv(self.sector_file)
-        sector_df['date'] = pd.to_datetime(sector_df['date'])
-        return sector_df
+        try:
+            sector_df = pd.read_csv(self.sector_file)
+            
+            if sector_df.empty or len(sector_df.columns) == 0:
+                return None
+            
+            # Auto-fix: rename first column to 'date' if needed
+            if 'date' not in sector_df.columns:
+                first_col = sector_df.columns[0]
+                try:
+                    pd.to_datetime(sector_df[first_col].iloc[0])
+                    sector_df = sector_df.rename(columns={first_col: 'date'})
+                except:
+                    return None
+            
+            sector_df['date'] = pd.to_datetime(sector_df['date'], errors='coerce')
+            sector_df = sector_df.dropna(subset=['date'])
+            
+            # Fill missing numeric columns with 0
+            for col in ['up_3_plus', 'down_3_plus', 'neutral', 'total', 'breadth']:
+                if col not in sector_df.columns:
+                    sector_df[col] = 0
+                sector_df[col] = pd.to_numeric(sector_df[col], errors='coerce').fillna(0)
+            
+            sector_df = sector_df.sort_values('date').reset_index(drop=True)
+            
+            return sector_df if len(sector_df) > 0 else None
+            
+        except Exception as e:
+            return None
     
     def get_latest_stats(self, df):
         """Get latest day statistics"""
